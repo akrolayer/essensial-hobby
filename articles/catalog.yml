@@ -2,9 +2,13 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - chap-WhatHobby.re
+  - chap-ForHobby.re
+  - chap-HobbyMoney.re
 
 APPENDIX:
 
 POSTDEF:
+  - postscript.re
+  - reference.re
   - contributors.re
