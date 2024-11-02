@@ -17,12 +17,12 @@ review_version: 5.0
 # inherit: ["A.yml", "B.yml"]
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
-bookname: ReVIEW-Template
+bookname: WorkAndHobby
 # 記述言語。省略した場合はja
 language: ja
 
 # 書名
-booktitle: {name: "趣味の見つけ方", file-as: "FindHobby"}
+booktitle: {name: "趣味の楽しみ方と仕事", file-as: "Hobby"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "ごまなつぷろじぇくと", file-as: "ごまなつぷろじぇくと"}]
